@@ -6,7 +6,7 @@
 
 <img 
   src="https://raw.githubusercontent.com/cjzo/cjzo/main/assets/name.gif"
-  width="80%"
+  width="100%"
   alt="Charles Zhou"
 />
     
