@@ -2,7 +2,13 @@
 
 
 <div align="center">
-<h1>Charles Zhou</h1>
+<!---<h1>Charles Zhou</h1>--!>
+
+<img 
+  src="https://raw.githubusercontent.com/cjzo/cjzo/main/assets/name.gif"
+  width="80%"
+  alt="Charles Zhou"
+/>
     
 <p>
 cs × econ @ harvard
