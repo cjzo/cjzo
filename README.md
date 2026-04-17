@@ -15,7 +15,7 @@ cs × econ @ harvard
 </p>
 
 <p>
-<a href="https://cjzo.github.io/slots">I'm feeling lucky</a>
+<a href="https://zhoucharles.com/slots">I'm feeling lucky</a>
 </p>
 
 <img 
